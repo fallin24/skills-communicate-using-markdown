@@ -26,4 +26,8 @@ end
 ````
 
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ![The usage of TCP vs UDP](https://i.chzbgr.com/full/9815491584/h39C9989A/person-tcp-udp-data-data)
