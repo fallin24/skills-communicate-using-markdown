@@ -5,3 +5,6 @@
 ## Let's see how the rest goes. tee hee. <h6>
 
 ###### P.S. I got this 
+
+
+![The usage of TCP vs UDP](https://i.chzbgr.com/full/9815491584/h39C9989A/person-tcp-udp-data-data)
