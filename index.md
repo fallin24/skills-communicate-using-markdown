@@ -6,5 +6,24 @@
 
 ###### P.S. I got this 
 
+```````````````
+$ git init
+Keep the git on your side. 
+```````````````
+
+```yaml
+hello
+this is
+a test
+network connection
+```
+````shell
+edit
+  set interface wan1
+      ip address: 10.10.10.1
+  next
+end
+````
+
 
 ![The usage of TCP vs UDP](https://i.chzbgr.com/full/9815491584/h39C9989A/person-tcp-udp-data-data)
